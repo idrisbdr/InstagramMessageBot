@@ -40,6 +40,6 @@ class Instagram:
         
 
 
-instgrm = Instagram(username,password,person,message)
-instgrm.signIn()
-instgrm.sendMessage()
+insta = Instagram(username,password,person,message)
+insta.signIn()
+insta.sendMessage()
